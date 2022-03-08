@@ -40,28 +40,10 @@ public class Card implements Comparable<Card>{
     return comparison;
   }
 
-
-
-
-
-
-
-
-
-
-
   @Override
   public int hashCode() {
     return hash;
   }
-
-
-
-
-
-
-
-
 
   @Override
   public boolean equals(Object obj) {
